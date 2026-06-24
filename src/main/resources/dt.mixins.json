@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dt.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "dt.refmap.json",
+  "mixins": [],
+  "client": [
+    "MinecraftGlowingNullSafeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

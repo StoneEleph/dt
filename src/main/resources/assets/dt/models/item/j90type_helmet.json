@@ -1,0 +1,28 @@
+{
+  "parent": "builtin/entity",
+  "display": {
+    "thirdperson_righthand": {
+      "scale": [0.6, 0.6, 0.6]
+    },
+    "thirdperson_lefthand": {
+      "scale": [0.6, 0.6, 0.6]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, 0, -1.75],
+      "translation": [0, 1.75, 0],
+      "scale": [0.7, 0.7, 0.7]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 0, -1.75],
+      "translation": [0, 1.75, 0],
+      "scale": [0.7, 0.7, 0.7]
+    },
+    "gui": {
+      "rotation": [163.72, -33.7, 164.01],
+      "translation": [0, -2.75, 0]
+    }
+  },
+  "textures": {
+    "particle": "dt:armor/j90type"
+  }
+}

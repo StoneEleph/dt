@@ -1,0 +1,16 @@
+{
+  "ID": "dt:t26",
+  "Model": {
+    "Animation": "dt:animations/animation.t26.json",
+    "Model": "dt:geo/t26.json",
+    "Texture": "dt:textures/entity/t26.png"
+  },
+  "DestroyInfo": {
+    "CrashPassengers": false,
+    "ExplodePassengers": true,
+    "ExplodeBlocks": true,
+    "ExplosionDamage": 50.0,
+    "ExplosionRadius": 4.0,
+    "ParticleType": "Medium"
+  }
+}
